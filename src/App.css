@@ -31,3 +31,8 @@
     transform: rotate(360deg);
   }
 }
+
+.paragraph {
+  font-style: italic;
+  color: #61dafb;
+}
